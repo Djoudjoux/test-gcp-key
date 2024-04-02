@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "mdm-core-infra-dev",
+  "private_key_id": "daadae5fef842ba2a9274fa0f3d440cb5e2a755b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCrhLo1rH/3+Z2K\nIaiuavXbbQnZL/SZlQAuerdyxV7wPAYGCcTuwazeo4v9mOcgIckxSIYFgsMFpJKa\nOv8PTSdOlkmdYZghy2r5IxZAoNr82JcDx29zB9ITGmBQxg1N4aOVMO9H6o18spCy\ni8iDkzSXssQkbn6GCRGl8pMEdONgrjs2UnZVBbPJEuTRiEDNZi+a7lhtdrdd9Cjo\ngZiW1YcuEF3YCpHjOXZsmMhfg5dJxa4YWyA8HvOCFVkJNeINIBF8mxQKOpqTxmV3\nUrKADPSpV1DgnNQ1fUOm2bCdXiK+Z6aGgryqrVYOlA8U6dxGB/n37DY72RAWht/5\nIExOKfdpAgMBAAECggEARrf3hPjmXIqVi6YcJCoiy8G2DVAqBIb8Z62eZNp/LgM5\nopS1l5HQYo3BQyMfrM5xY3oZFD2ZhoKYFbJchuUTX2I04Qijzs9OAIIYgzYvhJAT\nF/JLf/zJ/6lg6/z08Fcn+PQPvLG3e6IuagebebCgvylsmO7cCQzFM4yEVJKTS8Ft\n4j6YyliEudW9qlqjcQfPtGWwlzJ89z5nNkzRElqqgsKq5XAEWJJYvLTYTJMs7+55\nlf1SYRHPdfm0T2adST71/ffCuB92S/E3eNvpSStCEMSWUnDDMNOFjJG6zN6IrY4B\nCtgKVBsWiJYOC5HKqQ+loye1pGKN0hq75nWvcVkHbwKBgQDalJUOo0+RxBVBBD1M\nxPAjuHzJWdpWr4ThA4LCwqIR0+Rbke8fVvN6bczesXKUQ/uGSWXBNG16vWkuaQ+S\ns8iPRyCMEhU8u/iHPnnHZaWaQeUV5RchPHZooKdp4BAA9vkIjXi3iRJLBW7//y99\nEVRDMQ2dlSGu6NBUAcs4OiRUDwKBgQDI4aCmvTIYDLBMotUb38SmQqg7rIKODfsI\nA7qHhnNtfoppExYN2T9OmlCvbOtOMBUIWIfIXfdC34BLc6fwqIcDcFZ7JIjNEWL6\nqrYBaxGzqGXooBQ6gFdMyVBxTNnkGlUCE2xbnhH95ze+uctiiY/YAPmBEw70aVna\ni77YrSKlBwKBgGkQ7q1AlujMRiMgdI7IQ14IOgNXK3prmAXI+DvB7sF/Bs91UGnS\nE+sPiGCrDxZxrx+XfE/ocY+EKGDko1WzEX69g8mQj6DIAeiQgVz1YSrK7eEeY4XY\nWFpmjtJ3n3m3PXF8/z/JpX9mNzraYOtPPx+lHpRWsQAwbKNU0WhPmlLFAoGASN43\npWRJ8Jlhtlr2zQat0dWqKwNX1GnT3sNjfVfTNSvKz3TB8kIVCdFGZWwwKwucBYv/\nrToQwGxMoJISoGSxnRi59i95hFHDQsR8AyWwpSf315uB2vrFMDBygrbq7yhyH6+m\nBdHgGuctvHyu/06BJEyuNRkRuq0gj/tTPkwHni8CgYBLr/uCxvwAyLq4x84rUOta\nOdYriebGoEvLvWawsxRFYg46K/kwRoNttugQSIadvw1gyH7e5BHKsHB2l5jVHEHM\nmtmqlxVCHmeLyZRwmkkJVimaRxNCty4dzKJw8M5MqynioXfsgjuVtfQT3064mgry\niCeZcYzuPsR9AoyAGNmyAw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "my-public-sa@mdm-core-infra-dev.iam.gserviceaccount.com",
+  "client_id": "105487669976425502292",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/my-public-sa%40mdm-core-infra-dev.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
